@@ -1,0 +1,31 @@
+\usepackage{setspace}
+\usepackage{syllogism}
+
+
+\usepackage{enumitem}
+\setlistdepth{14}
+
+\setlist[itemize,1]{label=---}
+\setlist[itemize,2]{label=--}
+\setlist[itemize,3]{label={=}}
+\setlist[itemize,4]{label=-}
+\setlist[itemize,5]{label=-}
+\setlist[itemize,6]{label=-}
+\setlist[itemize,7]{label=-}
+\setlist[itemize,8]{label=-}
+\setlist[itemize,9]{label=-}
+\setlist[itemize,10]{label=-}
+\setlist[itemize,11]{label=-}
+\setlist[itemize,12]{label=-}
+\setlist[itemize,13]{label=-}
+\setlist[itemize,14]{label=-}
+
+\renewlist{itemize}{itemize}{14}
+
+
+\usepackage{amssymb}
+
+\def \... { . . . }
+\def \… { . . . }
+\doublespacing{}
+
